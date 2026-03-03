@@ -8,8 +8,8 @@ Siempre aprendiendo, siempre construyendo.
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-sanchez-29183a22a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergiosebs14@gmail.com)
 
 ---
 
@@ -27,10 +27,9 @@ Siempre aprendiendo, siempre construyendo.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
-
 ## ☕ Proyectos Java:
 
-### 🛒 [API Bazar - Spring Boot](https://github.com/sergiosebs2/10-API-Bazar-SpringBoot)
+### 🛒 [API Bazar - Spring Boot](https://github.com/sergiosebs2/10-APP-Web-Backend-SpringBoot)
 > API REST desarrollada en **Java con Spring Boot, JPA/Hibernate y base de datos H2**. CRUD completo de productos, clientes y ventas con patrón DTO, programación funcional y manejo de excepciones.
 
 ### 🏦 [Banco UTN - Sistema Bancario Web](https://github.com/sergiosebs2/9-App-Web-JavaJSP-GestionBancaria)
@@ -55,7 +54,7 @@ Siempre aprendiendo, siempre construyendo.
 ### 🛒 [Carrito de Compras ASP.NET](https://github.com/sergiosebs2/4-Carrito-de-compras-con-Net)
 > Aplicación web de carrito de compras desarrollada en **ASP.NET Framework, Bootstrap, C# y SQL Server**. Gestión de artículos, marcas, categorías e imágenes.
 
-### 🗂️ [Gestión de Artículos](https://github.com/sergiosebs2/Gestion-de-Articulos)
+### 🗂️ [Gestión de Artículos](https://github.com/sergiosebs2/3-Gestion-de-Articulos)
 > Sistema de gestión de artículos desarrollado con **C#, .NET y SQL Server**. Permite crear, editar y eliminar artículos con conexión a base de datos.
 
 ### 🗂️ [Sistema de Gestión C++](https://github.com/sergiosebs2/2-Sistema-de-gestion-Cpp)
@@ -63,6 +62,7 @@ Siempre aprendiendo, siempre construyendo.
 
 ### 🌐 [Maquetación Web](https://github.com/sergiosebs2/1-PaginaAlura)
 > Mi primer proyecto de maquetación web. Landing page para una barbería desarrollada con **HTML y CSS**.
+
 
 ---
 
