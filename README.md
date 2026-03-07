@@ -30,16 +30,16 @@ Siempre aprendiendo, siempre construyendo.
 ## ☕ Proyectos Java:
 
 ### 🛒 [API Bazar - Spring Boot](https://github.com/sergiosebs2/10-APP-Web-Backend-SpringBoot)
-> API REST desarrollada en **Java con Spring Boot, JPA/Hibernate y base de datos H2**. CRUD completo de productos, clientes y ventas con patrón DTO, programación funcional y manejo de excepciones.
+> API REST desarrollada en **Java con Spring Boot, JPA/Hibernate y base de datos MySQL**. CRUD completo de productos, clientes y ventas con patrón DTO, programación funcional y manejo de excepciones con ExceptionHandler. 
 
 ### 🏦 [Banco UTN - Sistema Bancario Web](https://github.com/sergiosebs2/9-App-Web-JavaJSP-GestionBancaria)
-> Sistema bancario web desarrollado en **Java con JSP, Servlets, JDBC y MySQL**. Arquitectura tres capas con interfaces, dos tipos de usuarios (admin y cliente), transferencias por CBU, préstamos, gestión de cuentas e informes estadísticos.
+> Sistema bancario web desarrollado en **Java con JSP, Servlets, JDBC y MySQL - Vistas con HTML y CSS**. Arquitectura con Patron MVC, dos tipos de usuarios (admin y cliente), transferencias por CBU, préstamos, gestión de cuentas e informes estadísticos.
 
 ### 🎮 [App de Juegos JavaFX](https://github.com/sergiosebs2/8-App-Escritorio-Juegos-JavaFX)
 > App de escritorio en **JavaFX** con Snake, Tetris y Ahorcado, pensada para que niños de 4 a 8 años aprendan a usar la PC de forma divertida. Implementa hilos, POO, MVC y persistencia en ficheros.
 
 ### 👥 [Gestión de Personas - Java Swing](https://github.com/sergiosebs2/7-App-Gestion-Escritorio-javaSwing)
-> App de escritorio desarrollada en **Java Swing y MySQL** con arquitectura de tres capas e interfaces. CRUD completo de personas con validaciones en tiempo real.
+> App de escritorio desarrollada en **Java Swing y MySQL** con arquitectura de tres capas e interfaces. CRUD completo de personas con validaciones en tiempo real. Patrón DAO 
 
 ---
 
